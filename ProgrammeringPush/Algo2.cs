@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Uppgifter
 {
-
+    //lol2
     //lol
     class Algo2
     {

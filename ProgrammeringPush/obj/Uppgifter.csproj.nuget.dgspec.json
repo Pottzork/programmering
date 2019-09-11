@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\andre\\source\\repos\\Uppgifter\\lessons\\Ovningar\\Uppgifter.csproj": {}
+    "C:\\Users\\andre\\OneDrive\\Skrivbord\\OOP KURS\\Ovningar\\programmering\\ProgrammeringPush\\Uppgifter.csproj": {}
   },
   "projects": {
-    "C:\\Users\\andre\\source\\repos\\Uppgifter\\lessons\\Ovningar\\Uppgifter.csproj": {
+    "C:\\Users\\andre\\OneDrive\\Skrivbord\\OOP KURS\\Ovningar\\programmering\\ProgrammeringPush\\Uppgifter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andre\\source\\repos\\Uppgifter\\lessons\\Ovningar\\Uppgifter.csproj",
+        "projectUniqueName": "C:\\Users\\andre\\OneDrive\\Skrivbord\\OOP KURS\\Ovningar\\programmering\\ProgrammeringPush\\Uppgifter.csproj",
         "projectName": "Uppgifter",
-        "projectPath": "C:\\Users\\andre\\source\\repos\\Uppgifter\\lessons\\Ovningar\\Uppgifter.csproj",
+        "projectPath": "C:\\Users\\andre\\OneDrive\\Skrivbord\\OOP KURS\\Ovningar\\programmering\\ProgrammeringPush\\Uppgifter.csproj",
         "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andre\\source\\repos\\Uppgifter\\lessons\\Ovningar\\obj\\",
+        "outputPath": "C:\\Users\\andre\\OneDrive\\Skrivbord\\OOP KURS\\Ovningar\\programmering\\ProgrammeringPush\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
